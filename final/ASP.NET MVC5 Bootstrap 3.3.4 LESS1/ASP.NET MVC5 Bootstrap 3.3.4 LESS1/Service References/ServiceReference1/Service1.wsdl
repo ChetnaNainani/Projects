@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:50318/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:50318/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:50318/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfServiceForInsert" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_InsertProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertProduct" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectProduct_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectProduct" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectProduct_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectProductResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCatalogMapping_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCatalogMapping" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCatalogMapping_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCatalogMappingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectCatalogMapping_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectCatalogMapping" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectCatalogMapping_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectCatalogMappingResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCatalog_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCatalog" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCatalog_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCatalogResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectCatalog_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectCatalog" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectCatalog_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectCatalogResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCategory_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCategory" />
+  </wsdl:message>
+  <wsdl:message name="IService1_InsertCategory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertCategoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectCategory_InputMessage">
+    <wsdl:part name="parameters" element="tns:SelectCategory" />
+  </wsdl:message>
+  <wsdl:message name="IService1_SelectCategory_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SelectCategoryResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="InsertProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertProduct" message="tns:IService1_InsertProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertProductResponse" message="tns:IService1_InsertProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectProduct">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectProduct" message="tns:IService1_SelectProduct_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectProductResponse" message="tns:IService1_SelectProduct_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCatalogMapping">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertCatalogMapping" message="tns:IService1_InsertCatalogMapping_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertCatalogMappingResponse" message="tns:IService1_InsertCatalogMapping_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectCatalogMapping">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectCatalogMapping" message="tns:IService1_SelectCatalogMapping_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectCatalogMappingResponse" message="tns:IService1_SelectCatalogMapping_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCatalog">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertCatalog" message="tns:IService1_InsertCatalog_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertCatalogResponse" message="tns:IService1_InsertCatalog_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectCatalog">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectCatalog" message="tns:IService1_SelectCatalog_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectCatalogResponse" message="tns:IService1_SelectCatalog_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertCategory">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/InsertCategory" message="tns:IService1_InsertCategory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertCategoryResponse" message="tns:IService1_InsertCategory_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SelectCategory">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/SelectCategory" message="tns:IService1_SelectCategory_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/SelectCategoryResponse" message="tns:IService1_SelectCategory_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertProduct">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectProduct">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectProduct" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCatalogMapping">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertCatalogMapping" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectCatalogMapping">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectCatalogMapping" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCatalog">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertCatalog" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectCatalog">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectCatalog" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertCategory">
+      <soap:operation soapAction="http://tempuri.org/IService1/InsertCategory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SelectCategory">
+      <soap:operation soapAction="http://tempuri.org/IService1/SelectCategory" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:50318/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

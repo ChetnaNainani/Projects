@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfServiceForInsert" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfServiceForInsert" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Product">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProductName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="VendorCategoryId" type="xs:int" />
+      <xs:element minOccurs="0" name="VendorProductId" type="xs:int" />
+      <xs:element minOccurs="0" name="VendorProductSKU" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Product" nillable="true" type="tns:Product" />
+  <xs:complexType name="ArrayOfProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Product" nillable="true" type="tns:Product" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProduct" nillable="true" type="tns:ArrayOfProduct" />
+  <xs:complexType name="CatalogMapping">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CatalogId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="CategoryId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FeaturedDisplayOrder" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="HomeProductDisplayOrder" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ProductId" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="isActive" type="xs:boolean" />
+      <xs:element minOccurs="0" name="isFeatured" type="xs:boolean" />
+      <xs:element minOccurs="0" name="isHomeProduct" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CatalogMapping" nillable="true" type="tns:CatalogMapping" />
+  <xs:complexType name="ArrayOfCatalogMapping">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CatalogMapping" nillable="true" type="tns:CatalogMapping" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCatalogMapping" nillable="true" type="tns:ArrayOfCatalogMapping" />
+  <xs:complexType name="Catalog">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EnableAllProduct" type="xs:boolean" />
+      <xs:element minOccurs="0" name="EnableAutoSync" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IsActive" type="xs:boolean" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Catalog" nillable="true" type="tns:Catalog" />
+  <xs:complexType name="ArrayOfCatalog">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Catalog" nillable="true" type="tns:Catalog" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCatalog" nillable="true" type="tns:ArrayOfCatalog" />
+  <xs:complexType name="Category">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DisplayName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="DisplayPriority" type="xs:int" />
+      <xs:element minOccurs="0" name="Id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ImageUrl" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MetaDescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MetaKeywords" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="MetaTitle" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="isActive" type="xs:boolean" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Category" nillable="true" type="tns:Category" />
+  <xs:complexType name="ArrayOfCategory">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Category" nillable="true" type="tns:Category" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCategory" nillable="true" type="tns:ArrayOfCategory" />
+</xs:schema>

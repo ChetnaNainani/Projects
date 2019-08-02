@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceForInsert", "WcfServiceForInsert\WcfServiceForInsert.csproj", "{9D5DADC3-1F9A-4DD3-8A92-AD36138F44F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{E2135D17-51D0-49FE-A494-2AEB6F984B9C}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5DADC3-1F9A-4DD3-8A92-AD36138F44F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5DADC3-1F9A-4DD3-8A92-AD36138F44F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5DADC3-1F9A-4DD3-8A92-AD36138F44F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5DADC3-1F9A-4DD3-8A92-AD36138F44F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

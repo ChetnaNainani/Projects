@@ -1,0 +1,312 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model IPagedList<ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.ServiceReference1.CatalogMapping>
+@Scripts.Render("~/TestBundle/Jqueryfiles")
+
+@{
+    ViewBag.Title = "CatalogMapping Page";
+}
+
+<!- Scripts for ajax, jquery, bootstrap---> 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+@Scripts.Render("~/TestBundle/Jqueryfiles")
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+      //  var queryString = $('#myFormId').serialize();
+       // $("#results").text(queryString);
+        $("#").click(function () {
+            $("#UploadModal").modal('show');
+        });
+
+        $("#fileInput").on("keyup change", function () {
+            fileName = $('#fileInput').val();
+
+            //var queryString = $('#myFormId').serialize();
+            //$("#results").text(fileName);
+
+            if (!( fileName.endsWith(".xlsx"))) {
+                alert("Invalid file selected...\nplease provide the file in .xlsx format.");
+                $("#message").html("");
+                $("input").css("color", "red");
+                $("#Uploading").attr("disabled", true);
+
+
+
+            }
+            else
+            {
+                $("input").removeAttr('style');
+                $("#Uploading").attr("disabled", false);
+                $("#Uploading").removeAttr('style');
+                $("#message").html("");
+
+                var fileUpload = $("#fileInput").get(0);
+                var files = fileUpload.files;
+
+
+                // Create FormData object
+                var fileData = new FormData();
+
+                // Looping over all files and add it to FormData object
+                for (var i = 0; i < files.length; i++) {
+                    fileData.append(files[i].name, files[i]);
+                }
+
+
+                $.ajax({
+                    url: '/CatalogMapping/ReadFiles',
+                    type: "POST",
+                    contentType: false, // Not to set any content header
+                    processData: false, // Not to process data
+                    data: fileData,
+                    processData: false, // Not to process data
+                   
+                    success: function (result) {
+                        $("#numberOfRows").html("number of rows: "+result);
+                      
+                    },
+                    error: function (err) {
+                        alert(err.statusText);
+                    }
+                });
+
+            }
+
+            $("#error").html("");
+            $("#numberOfRows").html("");
+
+        });
+
+
+        $("#searchByCatalogId").submit(function(e) {
+            var url = "/CatalogMapping/Index"; // the script where you handle the form input.
+            $.ajax({
+                type: "POST",
+                url: url,
+                data: $("#searchByCatalogId").serialize(), // serializes the form's elements.
+                success: function(data)
+                {
+                    $('#search')[0].reset(); // Clear the form
+                    $("#search").load(location.href + " #search");
+                }
+            });
+            e.preventDefault(); // avoid to execute the actual submit of the form.
+        });
+
+        $("#Uploading").click(function () {
+         var fileUpload = $("#fileInput").get(0);
+            var files = fileUpload.files;
+            var fileData = new FormData();
+            // Looping over all files and add it to FormData object
+            for (var i = 0; i < files.length; i++) {
+                fileData.append(files[i].name, files[i]);
+            }
+
+
+            $.ajax({
+                url: '/CatalogMapping/UploadFiles',
+                type: "POST",
+                contentType: false, // Not to set any content header
+                processData: false, // Not to process data
+                data: fileData,
+                success: function (result) {
+                    alert(result);
+                    $("#message").html(result);
+                    var str = "Download error report";
+                    $("#error").html(str.link("/CatalogMapping/Download"));
+                },
+                error: function (err) {
+                    alert(err.statusText);
+                }
+            });
+
+        });
+
+        $("#btnHideModal").click(function () {
+            $("#myModal").modal('hide');
+        });
+    });
+</script>
+<body id="background" background="~/Content/Images/backg1.jpg">
+    <h2>Catalog Mapping</h2>
+    <div class="container" style="font-size:medium">
+
+
+        <br />
+     
+
+        <!-- Trigger the modal with a button -->
+
+        <button id="Bulk" type="button" class="btn" data-toggle="modal" data-target="#myModal"><i class="fa fa-upload"></i>&nbsp  &nbspBulk Upload</button>
+        <br />
+        <div class="background" id="search">
+
+            @using (@Html.BeginForm("Index", "CatalogMapping", FormMethod.Get))
+            {
+                <b>Search By:</b>
+                <text>Catalog Id</text>
+
+                @Html.TextBox("search", null, new { style = "height:28px;margin-top:15px;" })
+                <button id="searchByCatalogId" type="submit" style="width:10px;height:28px;border:none;margin-top:15px; background-color:#33a2d9">
+                    <span class="glyphicon glyphicon-filter" style="padding:0px ;margin-left:-20px;margin-right:0px; width:10px;font-size:large"></span>
+                </button>
+            }
+        </div>
+        <div class="background">
+
+            <button id="Bulk1" onclick="location.href='@Url.Action("buttonexport", "CatalogMapping")';return false;"><i class="fa fa-download"></i>&nbsp  &nbsp Export All Products</button>
+        </div>
+    </div>  <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog" data-keyboard="false" data-backdrop="static" style="width:50%;padding:30px; margin-top:40px;margin:auto;">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Upload File</h4>
+                </div>
+                <div class="modal-body">
+                    <form id="myFormId" enctype="multipart/form-data">
+                        <input type="file" style="border:0px solid gray" name="file" id="fileInput"
+                               accept="*.xlsx" /><br />
+                        <a href="https://drive.google.com/open?id=1eYTiKV7MuNXbfnSNHU2cqv4IqpqwGiSn" target="_blank" download>Download Template</a>
+                    </form>
+
+                    <div id="numberOfRows"></div>
+
+                    <div id="error"></div>
+
+                    <br />
+                    <button type="button" id="Uploading" disabled>Upload</button>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn" data-dismiss="modal" id="close">Close</button>
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br />
+    <table>
+        <tr>
+            <th style="padding:10px 15px">
+
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th style="padding:10px 15px">
+
+                @Html.DisplayNameFor(model => model.First().CatalogId)
+            </th>
+            <th style="padding:10px 15px">
+
+                @Html.DisplayNameFor(model => model.First().ProductId)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().CategoryId)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().isFeatured)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().FeaturedDisplayOrder)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().isHomeProduct)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().HomeProductDisplayOrder)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().isActive)
+            </th>
+        </tr>
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="10">
+                    No records match search criteria
+                </td>
+            </tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CatalogId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CategoryId)
+                    </td>
+                    <td>
+                       
+                        @if ((item.isFeatured.ToString().ToUpper()).Equals("TRUE"))
+                        {
+                            <span class="glyphicon glyphicon-ok"></span>
+                        }
+                        else
+                        {
+                            <span class="glyphicon glyphicon-remove"></span>
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FeaturedDisplayOrder)
+                    </td>
+                    <td>
+                        
+                        @if ((item.isHomeProduct.ToString().ToUpper()).Equals("TRUE"))
+                        {
+                            <span class="glyphicon glyphicon-ok"></span>
+                        }
+                        else
+                        {
+                            <span class="glyphicon glyphicon-remove"></span>
+                        }
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HomeProductDisplayOrder)
+                    </td>
+                    <td>
+                        
+                        @if ((item.isActive.ToString().ToUpper()).Equals("TRUE"))
+                        {
+                            <span class="glyphicon glyphicon-ok"></span>
+                        }
+                        else
+                        {
+                            <span class="glyphicon glyphicon-remove"></span>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+
+    </table>
+
+   
+    <div style="align-content:center,space-between;margin-left:18%;
+                margin-right:15%;">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page, search = Request.QueryString["search"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayItemSliceAndTotal = true })
+
+    </div>
+
+</body>

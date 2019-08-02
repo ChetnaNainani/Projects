@@ -1,0 +1,314 @@
+2019-08-01 15:30:29.3359|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:30:43.9619|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:30:43.9619|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:30:44.3229|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:30:44.8794|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:10.7308|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:10.7464|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:11.0282|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:11.0433|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:13.3774|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:13.4463|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:15.5443|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:15.6224|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:17.8719|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:20.1251|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:20.1949|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:22.3782|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:22.4400|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:31:24.0189|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:31:24.6980|ERROR|WebApi.Controllers.ValuesController|Error in Home Insert Product
+2019-08-01 15:31:26.4471|ERROR|WebApi.Controllers.ValuesController|Error in Home Index
+2019-08-01 15:31:52.4914|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 15:32:04.2933|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 15:32:04.5838|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 15:32:04.8337|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 15:32:05.0658|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 15:32:05.2384|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 15:32:09.0697|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 15:32:11.7763|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 15:32:15.3247|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 15:32:15.4865|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 15:32:53.0642|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:32:53.0642|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:00.3142|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:33:00.6345|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:33:00.8088|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:33:00.9806|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:33:01.1368|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 15:33:05.7006|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:07.3382|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:12.8829|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:12.9238|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:22.6239|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:26.4719|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 15:33:29.6524|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:01:41.4731|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:02:00.5268|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 16:02:00.9864|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 16:02:01.4042|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 16:02:01.6695|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 16:02:01.8371|INFO|WebApi.Controllers.ValuesController|Home Wpi InsertProduct
+2019-08-01 16:02:08.9538|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:02:12.3495|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:02:14.4990|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:02:17.1952|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:02:24.9957|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:02:29.8704|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:02:43.8624|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:02:44.0769|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:02:46.7912|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:02:49.5557|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:02:52.2789|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:03:02.6574|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:03:19.2211|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:03:24.7190|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:03:44.5652|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:03:48.7507|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 16:04:01.4429|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 16:04:01.6402|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 16:04:01.8805|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 16:04:02.0361|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 16:04:02.3443|INFO|WebApi.Controllers.CatalogMappingController|CatalogMapping Wpi InsertCatalogMapping
+2019-08-01 16:04:07.5998|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 16:04:10.6150|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-01 16:04:15.2414|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:05:33.4372|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:05:48.8017|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:05:51.1631|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:05:52.1276|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:13:02.0101|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:13:02.0101|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-01 16:13:11.7751|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:13:30.2282|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:13:30.7008|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:13:33.2070|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:13:34.3171|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:13:39.2869|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:13:45.1139|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:16:39.0620|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:16:39.2796|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:18:01.9653|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:18:22.2751|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:18:22.4691|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:19:14.1153|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:21:46.1172|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:21:46.3267|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:21:49.4498|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:22:22.2151|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:22:45.3622|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:22:48.1028|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:25:59.2592|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:26:36.9661|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:29:56.7744|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:30:02.3123|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:30:04.0037|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:30:26.6161|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:30:43.4846|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:30:47.4207|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:30:50.7572|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:30:53.3059|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:31:14.4331|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:31:15.8889|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:31:25.0289|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 16:31:25.2353|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 16:31:35.5730|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:36:06.8767|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:36:09.8684|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:36:30.3043|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 16:38:54.3791|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:08:51.5914|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:08:56.8456|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:45:24.2378|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:45:26.9320|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 17:46:00.1064|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 17:47:25.3187|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:50:03.1030|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:50:21.2857|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:50:23.7921|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:50:24.6721|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 17:53:42.4627|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:00:51.8446|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:01:11.3869|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:01:12.4849|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:01:28.7279|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:01:31.3729|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:08:27.4638|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 18:08:34.5837|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 18:08:50.8051|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-01 18:25:30.4994|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-01 18:25:34.2068|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 18:56:55.3714|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:01:33.9033|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:03:01.5740|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:11:11.7008|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:11:42.6621|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:15:06.4429|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:15:41.9068|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-01 19:16:36.0844|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 09:45:06.9105|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 09:45:06.9105|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 09:45:48.3854|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 09:46:02.8340|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 09:46:51.3222|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 09:46:52.3691|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:09:04.4203|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:23:29.7815|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:26:26.0137|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:26:30.9271|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:26:39.1045|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 10:29:11.0656|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:33:02.0389|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:33:10.2733|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:40:43.3947|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:40:57.8219|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:47:16.7751|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:47:21.5495|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:57:49.7362|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 10:57:49.8665|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 10:57:52.4484|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 10:58:08.5965|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 10:58:08.5965|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 11:00:03.3800|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 11:08:34.5353|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:08:34.5861|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 11:08:34.6101|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 11:09:20.5527|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:12:40.9192|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:12:41.0026|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:12:41.0026|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:12:45.3780|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:12:53.4657|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-02 11:12:55.0580|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:21:26.6014|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:21:52.7990|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:24:20.2138|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:24:55.3980|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:25:51.4646|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:26:23.4956|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:27:04.0790|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:30:04.8079|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:30:27.5574|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:31:00.6661|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:31:13.5890|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:38:07.6340|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:38:17.0633|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:38:42.6560|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:38:56.0715|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:39:33.4595|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:39:54.0376|INFO|WebApi.Controllers.CatalogController|Catalog Wpi InsertCatalog
+2019-08-02 11:39:54.3551|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:50:00.6335|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 11:50:13.5620|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:55:09.2286|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 11:55:25.1565|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:33:25.5713|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:33:42.2218|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:33:43.0765|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:34:04.3539|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:34:04.8486|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:36:17.1974|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:36:31.4266|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:41:26.4860|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 12:41:41.9943|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:42:00.1310|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:42:22.0177|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:43:19.4379|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 12:43:26.7673|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:43:43.9567|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:43:44.7119|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:49:12.9710|INFO|WebApi.Controllers.ValuesController|Home Wpi Get
+2019-08-02 12:49:24.9536|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:49:38.1170|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:49:43.6627|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 12:49:43.7766|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:49:46.1958|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 12:49:49.0686|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 12:49:51.3475|ERROR|WebApi.Controllers.CatalogController|Error in Catalog Index
+2019-08-02 12:50:21.9871|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 12:50:34.8012|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:50:40.5375|INFO|WebApi.Controllers.CatalogController|Catalog Wpi Get
+2019-08-02 12:50:43.0247|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:50:57.5868|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:51:57.8942|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 12:51:58.0617|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:52:00.4582|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 12:53:11.2807|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:53:24.2447|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:53:51.9762|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:54:12.1788|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 12:54:12.2955|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:54:17.9161|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 12:55:20.5860|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:55:42.1984|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:56:28.4326|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 12:56:28.5553|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:56:34.1532|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 12:58:06.7146|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 12:58:33.6093|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 12:59:58.2084|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:00:20.0537|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:01:16.0441|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:01:38.3000|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:02:33.1212|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:02:57.0822|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:04:33.5966|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:04:56.4212|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 13:08:26.8257|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:08:53.4474|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:11:28.6424|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:11:40.4646|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:11:52.2241|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:13:34.5029|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:13:45.7746|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 13:14:31.1790|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:02:29.8438|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:02:32.8750|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:03:00.7697|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:08:39.3457|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:09:02.0576|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:15:24.6894|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:15:34.4899|INFO|WebApi.Controllers.CatalogMappingController|Catalog Mapping Wpi Get
+2019-08-02 14:15:38.3035|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:15:51.5355|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:25:53.9135|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:26:13.6249|ERROR|WebApi.WebApiApplication|System.Web.HttpException (0x80004005): The controller for path '/user/create' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2019-08-02 14:26:13.7636|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:33:13.3497|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:33:48.7080|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:35:41.0794|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:36:04.6639|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:36:38.7508|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 14:36:38.8804|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:37:58.0240|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:38:14.4345|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:38:21.4737|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 14:38:21.5924|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:38:26.2267|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 14:40:05.3302|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:40:07.9578|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 14:40:41.3958|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:43:05.3937|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:44:00.6319|ERROR|WebApi.Controllers.CategoryController|Error in Category Insert Category
+2019-08-02 14:44:00.7645|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:44:05.4485|ERROR|WebApi.Controllers.CategoryController|Error in Category Index
+2019-08-02 14:46:16.5880|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:46:40.5256|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:46:40.9127|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:46:46.0087|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:46:49.2042|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 14:47:06.1241|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 14:47:06.3785|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 15:04:36.1220|INFO|WebApi.Controllers.CategoryController|Category Wpi InsertCategory
+2019-08-02 15:04:36.5333|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 15:04:42.0386|INFO|WebApi.Controllers.CategoryController|Category Wpi Get
+2019-08-02 15:04:45.3250|INFO|WebApi.Controllers.CategoryController|Category Wpi Get

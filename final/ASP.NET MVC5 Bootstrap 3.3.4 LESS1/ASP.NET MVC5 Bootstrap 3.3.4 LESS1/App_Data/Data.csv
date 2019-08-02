@@ -1,0 +1,10 @@
+Id,CatalogId,ProductId,CategoryId,isFeatured,FeaturedDisplayOrder,isHomeProduct,HomeProductDisplayOrder,isActive
+1234,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7cd2-2066-11e9-9b37-00155d360e1e,8,False,5,False,1,True
+3f20552c-1e10-1ffgghd1e9-9b37-00155d360e1e,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7c14-2066-11e9-9b37-00155d360e1e,8,True,3,False,1,True
+3f20552c-dggggggg1e10-1ffgghd1e9-9b37-00155d360e1e,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7c14-2066-11e9-9b37-00155d360e1e,8,True,3,False,1,True
+473a549c-1ca3-1gdgdddd1e9-9b37-00155d360e1e,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7c73-2066-11e9-9b37-00155d360e1e,8,False,4,False,1,True
+6e4859ab-1e10-1dgdfdgg1e9-9b37-00155d360e1e,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7cd2-2066-11e9-9b37-00155d360e1e,8,False,5,False,1,True
+dfdgdgdg360e1e,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7c73-2066-11e9-9b37-00155d360e1e,8,False,4,False,1,True
+dggddgdgdggd35464646,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7b65-2066-11e9-9b37-00155d360e1e,8,True,2,False,1,True
+dggddgdgggggggdgdggd35464646,30c4103d-1ca2-11e9-9b37-00155d360e1e,da0f7b65-2066-11e9-9b37-00155d360e1e,8,True,2,False,1,True
+

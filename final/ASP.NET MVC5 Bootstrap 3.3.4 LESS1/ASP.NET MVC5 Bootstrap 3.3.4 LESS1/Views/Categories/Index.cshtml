@@ -1,0 +1,100 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model IPagedList<ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.ServiceReference1.Category>
+@{
+    ViewBag.Title = "Index";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<body id="background">
+    <h2>Category</h2>
+
+
+    <div>
+
+        <button id="Bulk1" onclick="location.href='@Url.Action("create", "Categories")';return false;"><i class="glyphicon glyphicon-plus"></i>&nbsp  &nbsp Create Category</button>
+    </div>
+    <br />
+    <br /><br />
+    <div class="background">
+
+        <button id="Bulk1" onclick="location.href='@Url.Action("buttonexport", "Categories")';return false;"><i class="fa fa-download"></i>&nbsp  &nbsp Export All Products</button>
+    </div>
+    <br />
+    <br />
+    <table class="table">
+        <tr>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().Name)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().Code)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().DisplayName)
+            </th>
+
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().DisplayPriority)
+            </th>
+
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().isActive)
+            </th>
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DisplayName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.DisplayPriority)
+                </td>
+
+
+                <td>
+                    @if ((item.isActive.ToString().ToUpper()).Equals("TRUE"))
+                    {
+                        <span class="glyphicon glyphicon-ok"></span>
+                    }
+                    else
+                    {
+                        <span class="glyphicon glyphicon-remove"></span>
+                    }
+                </td>
+
+            </tr>
+        }
+
+    </table>
+
+    <div style="align-content:center,space-between;margin-left:18%;
+                margin-right:15%;">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayItemSliceAndTotal = true })
+
+
+
+
+    </div>
+
+
+
+
+</body>
+

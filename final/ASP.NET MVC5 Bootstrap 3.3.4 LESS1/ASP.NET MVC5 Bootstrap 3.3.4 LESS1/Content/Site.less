@@ -1,0 +1,195 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-image: url('Images/backg1.jpg');
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+button {
+        color: white;
+        padding: 5px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin-left: 30px;
+    }
+
+    #Bulk {
+        margin-top: -20px;
+        float: right;
+        background-color: #6b5b80;
+        color: white;
+        padding: 7px 32px;
+        text-align: center;
+        font-size: 12px;
+        margin-right: 20px;
+        border: 0.5px solid #feb236;
+        width:200px;
+    }
+
+    #Bulk1 {
+        width:200px;
+        margin-top: -30px;
+        float: right;
+        background-color: #6b5b80;
+        color: white;
+        margin-right: 20px;
+        padding: 7px 32px;
+        text-align: center;
+        font-size: 12px;
+        border: 0.5px solid #feb236;
+    }
+
+    #Bulk:hover {
+        background-color: #6b5b95;
+    }
+
+    #Uploading:disabled {
+        background-color: #deeaee;
+        color: grey;
+        border: none;
+    }
+
+    #Uploading:enabled {
+        background-color: #92a8d1;
+        color: white;
+        border: 0.5px solid gray;
+    }
+
+    #close:hover {
+        background-color: #bdcebe;
+    }
+
+    PagedListPager {
+        align-self: center;
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+
+    #background {
+        width: 100%;
+        background-size: cover;
+    }
+
+    .background {
+        display: block;
+        
+    }
+.checkbox{
+    height:30px;
+    width:30px;
+}
+    table {
+        border-collapse: collapse;
+ border-spacing: 0px;
+ resize: both;
+        overflow-y:scroll;
+        table-layout:auto;
+   height:300px;
+   display:block;
+   resize:both;
+        padding: 10px 10px;
+        width: 400%;
+        max-width: 1600px;
+        min-width: 900px;
+       word-wrap:break-word;
+        float: inherit;
+        align-self: center;
+        align-items: center;
+        align-content: center;
+        text-align-last: center;
+        text-decoration-color: ActiveBorder;
+        color: #333;
+        font-family: Helvetica, Arial, sans-serif;
+        width: 640px;
+        border-collapse: collapse;
+       
+        width:100%;
+    }
+
+    td {
+        margin: 0px;
+ resize: both;
+ overflow: auto;
+        white-space: nowrap;
+        resize:both;
+       padding: 10px 15px;
+        border: solid 1px darkblue;
+        text-align: center;
+        border: 1px solid transparent; /* No more visible border */
+        height: 30px;
+        transition: all 0.3s; /* Simple transition for hover effect */
+    }
+
+    th {
+        margin: 0px;
+         resize: both;
+ overflow: auto;
+        resize:both;
+        padding: 10px 15px;
+        border: solid 1px darkblue;
+        text-align: center;
+        background: #2FABDC; /* Darken header a bit */
+        font-weight: bold;
+        width:80%;
+    }
+
+    td {
+       
+        border: solid 1px darkblue;
+        background: #FAFAFA;
+        text-align: center;
+    }
+
+    /* Cells in even rows (2,4,6...) are one color */
+    tr:nth-child(even) td {
+        border: solid 1px darkblue;
+        text-align: center;
+        background: lightblue;
+        padding: 10px 15px;
+    }
+
+    /* Cells in odd rows (1,3,5...) are another (excludes header cells)  */
+    tr:nth-child(odd) td {
+        border: solid 1px darkblue;
+        text-align: center;
+        background: #FEFEFE;
+        padding: 10px 15px;
+    }
+
+   

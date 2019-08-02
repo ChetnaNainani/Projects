@@ -1,0 +1,25 @@
+Id: latest1 
+ProductName: Max Fashion E-Gift Card 
+VendorProductId: 1343 
+VendorProductSKU: EGCGBMAX001 
+VendorCategoryId: 8 
+Id: latest2 
+ProductName: MakeMyTrip E-Gift Card-CORP 
+VendorProductId: 1223 
+VendorProductSKU: EGCGBMMTCR001 
+VendorCategoryId: 8 
+Id: latest3 
+ProductName: MakeMyTrip Hotel E-Gift Card-CORP 
+VendorProductId: 1234 
+VendorProductSKU: EGCGBMMTHOTC001 
+VendorCategoryId: 8 
+Id: latest4 
+ProductName: Amazon.in E-Gift Card 
+VendorProductId: 1234 
+VendorProductSKU: EGCGBAMZ001 
+VendorCategoryId: 8 
+Id: latest5 
+ProductName: Amazon.in E-Gift Card 
+VendorProductId: 1245 
+VendorProductSKU: EGCGBMMTHOLC001 
+VendorCategoryId: 6 

@@ -1,0 +1,1040 @@
+2019-08-01 14:10:26.3532|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:26.3532|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:44.6681|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 14:10:44.6681|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 14:10:44.7010|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 14:10:44.7010|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 14:10:45.5918|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:45.5918|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:51.2521|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:51.2521|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:51.2959|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:10:51.2959|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:46:58.6380|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:46:58.6380|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:47:27.2848|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 14:47:27.2848|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 14:47:28.1643|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 14:47:28.1643|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 14:47:35.9519|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:47:35.9519|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:47:46.5090|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:47:46.5090|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:47:56.1187|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:47:56.1187|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:48:17.0354|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 14:48:17.0354|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 14:48:17.2335|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:48:17.2335|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:48:19.9811|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:48:19.9811|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 14:48:25.8983|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 14:48:25.8983|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 14:48:47.7015|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 14:48:47.7015|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 14:48:48.0057|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 14:48:48.0057|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 14:48:52.0221|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:48:52.0221|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:10.5308|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping ReadFiles
+2019-08-01 14:49:10.5308|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping ReadFiles
+2019-08-01 14:49:11.7825|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping Upload Files
+2019-08-01 14:49:11.7825|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping Upload Files
+2019-08-01 14:49:20.6394|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:20.6394|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:24.7002|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:24.7002|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:24.7261|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:24.7261|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:29.0394|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:29.0394|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:31.5263|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:31.5263|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:31.5622|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:49:31.5622|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 14:50:00.4408|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:00.4408|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:03.2077|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:03.2077|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:06.1094|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:06.1094|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:08.9671|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:08.9671|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:09.0000|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:09.0000|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:15.2514|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 14:50:15.2514|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:30:28.5014|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:30:28.5014|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:30:43.2142|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 15:30:43.2142|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 15:30:43.7449|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 15:30:43.7449|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 15:30:43.7918|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 15:30:43.7918|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 15:31:23.9721|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:31:23.9721|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:31:26.5899|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Error in Home Index
+2019-08-01 15:31:26.5899|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Error in Home Index
+2019-08-01 15:31:26.5899|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Error in Home Index
+2019-08-01 15:31:26.5899|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Error in Home Index
+2019-08-01 15:31:52.4465|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:31:52.4465|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:31:52.5652|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.MvcApplication|System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at ASP._Page_Views_Home_Index_cshtml.Execute() in d:\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\Views\Home\Index.cshtml:line 256
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2019-08-01 15:31:52.5652|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.MvcApplication|System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at ASP._Page_Views_Home_Index_cshtml.Execute() in d:\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\Views\Home\Index.cshtml:line 256
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2019-08-01 15:31:52.5652|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.MvcApplication|System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at ASP._Page_Views_Home_Index_cshtml.Execute() in d:\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\Views\Home\Index.cshtml:line 256
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2019-08-01 15:31:52.5652|ERROR|ASP.NET_MVC5_Bootstrap3_3_1_LESS.MvcApplication|System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Count[TSource](IEnumerable`1 source)
+   at ASP._Page_Views_Home_Index_cshtml.Execute() in d:\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\ASP.NET MVC5 Bootstrap 3.3.4 LESS1\Views\Home\Index.cshtml:line 256
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy()
+   at System.Web.Mvc.WebViewPage.ExecutePageHierarchy()
+   at System.Web.WebPages.StartPage.RunPage()
+   at System.Web.WebPages.StartPage.ExecutePageHierarchy()
+   at System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   at System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   at System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   at System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecuteCore>b__1d(IAsyncResult asyncResult, ExecuteCoreState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<BeginExecute>b__15(IAsyncResult asyncResult, Controller controller)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<BeginProcessRequest>b__5(IAsyncResult asyncResult, ProcessRequestState innerState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncVoid`1.CallEndDelegate(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   at System.Web.Mvc.Async.AsyncResultWrapper.End[TResult](IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.Async.AsyncResultWrapper.End(IAsyncResult asyncResult, Object tag)
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2019-08-01 15:32:03.5852|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping ReadFiles
+2019-08-01 15:32:03.5852|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping ReadFiles
+2019-08-01 15:32:04.2293|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping Upload Files
+2019-08-01 15:32:04.2293|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping Upload Files
+2019-08-01 15:32:09.0225|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:09.0225|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:11.7341|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:11.7341|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:15.2688|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:15.2688|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:15.3576|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:15.3576|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 15:32:52.9334|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:32:52.9334|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:32:52.9656|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:32:52.9656|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:32:58.8412|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 15:32:58.8412|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 15:33:00.2643|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 15:33:00.2643|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 15:33:05.6547|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:05.6547|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:07.2960|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:07.2960|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:12.8281|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:12.8281|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:12.8690|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:12.8690|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:22.5840|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:22.5840|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:26.4211|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:26.4211|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:29.6139|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 15:33:29.6139|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:01:41.0611|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:01:41.0611|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:01:59.0709|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 16:01:59.0709|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home ReadFiles
+2019-08-01 16:02:00.4073|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 16:02:00.4073|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Upload Files
+2019-08-01 16:02:08.9000|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:08.9000|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:12.3066|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:12.3066|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:14.4570|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:14.4570|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:17.1394|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:17.1394|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:24.9458|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:24.9458|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:02:29.8275|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:29.8275|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:43.8046|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 16:02:43.8046|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 16:02:44.0430|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:44.0430|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:46.7544|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:46.7544|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:49.5195|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:49.5195|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:52.2431|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:02:52.2431|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:03:02.6185|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:02.6185|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:18.9440|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:03:18.9440|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:03:19.1892|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:19.1892|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:24.6802|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:24.6802|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:44.4228|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:03:44.4228|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:03:44.5305|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:44.5305|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:03:48.6988|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 16:03:48.6988|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 16:03:59.9037|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping ReadFiles
+2019-08-01 16:03:59.9037|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping ReadFiles
+2019-08-01 16:04:01.3807|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping Upload Files
+2019-08-01 16:04:01.3807|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|Catalog Mapping Upload Files
+2019-08-01 16:04:07.5546|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 16:04:07.5546|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 16:04:10.5668|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 16:04:10.5668|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-01 16:04:15.1995|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:04:15.1995|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:33.0173|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:33.0173|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:48.4925|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:05:48.4925|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:05:48.7689|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:48.7689|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:51.1202|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:51.1202|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:52.0887|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:05:52.0887|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:01.3125|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:13:01.3125|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:13:01.3125|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:13:01.3125|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-01 16:13:11.7243|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:11.7243|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:30.1142|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:13:30.1142|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:13:30.6669|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:30.6669|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:33.1672|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:33.1672|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:34.2762|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:34.2762|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:39.2460|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:13:39.2460|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:13:45.0730|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:13:45.0730|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:16:38.9928|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:16:38.9928|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:16:39.2467|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:16:39.2467|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:18:01.9215|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:18:01.9215|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:18:22.2155|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:18:22.2155|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:18:22.4352|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:18:22.4352|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:19:14.0714|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:19:14.0714|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:19:25.3066|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:19:25.3066|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:21:45.9698|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:21:45.9698|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:21:46.2908|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:21:46.2908|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:21:49.4109|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:21:49.4109|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:22:22.1074|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:22:22.1074|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:22:45.1457|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:22:45.1457|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:22:45.3302|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:22:45.3302|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:22:48.0649|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:22:48.0649|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:23:37.2630|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:23:37.2630|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:25:58.6257|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:25:58.6257|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:26:14.0344|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:26:14.0344|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:26:36.9262|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:26:36.9262|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:26:46.2899|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:26:46.2899|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:29:56.7357|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:29:56.7357|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:30:02.1288|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:30:02.1288|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:30:03.9428|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:03.9428|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:14.7549|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 16:30:14.7549|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 16:30:43.4328|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:43.4328|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:47.3678|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:47.3678|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:50.7133|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:50.7133|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:53.2660|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:30:53.2660|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:14.3902|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:14.3902|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:15.8500|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:15.8500|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:24.9826|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 16:31:24.9826|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 16:31:25.1954|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:25.1954|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 16:31:35.5320|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:31:35.5320|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:31:47.0975|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:31:47.0975|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:36:06.6304|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:36:06.6304|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:36:06.8450|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:36:06.8450|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:36:09.8196|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:36:09.8196|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:36:30.2595|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:36:30.2595|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 16:36:48.7760|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:36:48.7760|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:59:56.1990|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 16:59:56.1990|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:04:45.0236|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:04:45.0236|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:06:20.7543|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:06:20.7543|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:08:51.5455|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:08:51.5455|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:08:56.8027|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:08:56.8027|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:09:06.7671|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:09:06.7671|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:10:26.2057|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:10:26.2057|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:43:51.8619|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:43:51.8619|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:45:24.1934|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:45:24.1934|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:45:26.8944|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 17:45:26.8944|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 17:45:39.8136|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 17:45:39.8136|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 17:47:25.1931|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:47:25.1931|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:47:39.6975|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:47:39.6975|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:50:03.0483|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:03.0483|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:21.1485|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:50:21.1485|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:50:21.2519|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:21.2519|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:23.7403|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:23.7403|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:24.6214|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:50:24.6214|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:53:42.3541|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:53:42.3541|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 17:54:00.2584|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:54:00.2584|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:57:54.5721|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 17:57:54.5721|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:00:51.8117|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:00:51.8117|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:11.3365|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:11.3365|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:12.4470|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:12.4470|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:21.0284|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:01:21.0284|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:01:28.6950|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:28.6950|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:31.3323|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:31.3323|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:01:40.0961|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:01:40.0961|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:07:51.2214|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:07:51.2214|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:07:53.8226|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Error in Catalog Index
+2019-08-01 18:07:53.8226|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Error in Catalog Index
+2019-08-01 18:07:53.8226|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Error in Catalog Index
+2019-08-01 18:07:53.8226|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Error in Catalog Index
+2019-08-01 18:08:26.8176|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:08:26.8176|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:08:34.5448|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:08:34.5448|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:08:45.7275|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 18:08:45.7275|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-01 18:25:30.4575|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:25:30.4575|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-01 18:25:34.1599|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:25:34.1599|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:25:47.5034|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:25:47.5034|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:56:28.8540|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:56:28.8540|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:56:55.3285|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:56:55.3285|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 18:58:44.8467|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 18:58:44.8467|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:03:01.4912|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-01 19:03:01.4912|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-01 19:03:01.4912|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-01 19:03:01.4912|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-01 19:03:01.5241|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:03:01.5241|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:08:51.9049|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:08:51.9049|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:11:11.6410|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:11:11.6410|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:11:42.4538|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:11:42.4538|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:12:02.6514|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:12:02.6514|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:14:50.3261|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:14:50.3261|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:15:06.3910|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:15:06.3910|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:15:36.4661|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:15:36.4661|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:15:41.8370|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:15:41.8370|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:16:35.8558|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:16:35.8558|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-01 19:16:36.0237|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-01 19:16:36.0237|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:45:05.9101|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 09:45:05.9101|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 09:45:05.9101|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 09:45:05.9101|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 09:45:48.3420|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:45:48.3420|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:46:02.6540|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 09:46:02.6540|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 09:46:02.8031|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:46:02.8031|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:46:51.2802|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:46:51.2802|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:46:52.3282|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:46:52.3282|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 09:47:37.9167|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 09:47:37.9167|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:09:04.3605|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:09:04.3605|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:09:19.9632|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:09:19.9632|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:14:22.6175|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:14:22.6175|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:22:11.3862|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:22:11.3862|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:23:29.7505|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:23:29.7505|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:23:46.4056|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:23:46.4056|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:28:39.8579|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:28:39.8579|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:29:11.0097|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:29:11.0097|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:29:26.8030|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:29:26.8030|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:33:02.0016|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:33:02.0016|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:33:10.2276|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:33:10.2276|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:33:20.9328|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:33:20.9328|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:40:43.3608|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:40:43.3608|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:40:57.7844|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:40:57.7844|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:41:06.5535|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:41:06.5535|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:41:51.1066|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|error
+2019-08-02 10:41:51.1066|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|error
+2019-08-02 10:41:51.1066|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|error
+2019-08-02 10:41:51.1066|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|error
+2019-08-02 10:47:16.7402|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:47:16.7402|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:47:21.5093|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:47:21.5093|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:47:30.8839|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:47:30.8839|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 10:56:40.6248|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 10:56:40.6248|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 10:56:40.6248|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 10:56:40.6248|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 10:56:40.6945|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 10:56:40.6945|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:08:33.5880|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 11:08:33.5880|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:08:33.5880|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 11:08:33.5880|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 11:08:33.5880|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:08:33.5880|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 11:09:20.4840|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:09:20.4840|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:09:31.9698|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:09:31.9698|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:09:46.8044|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:09:46.8044|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:09:46.8044|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:09:46.8044|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:12:40.7682|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:40.7682|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:40.7682|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:40.7682|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:40.7682|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:40.7682|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:45.3133|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:45.3133|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:53.3581|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-02 11:12:53.3581|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-02 11:12:54.9762|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:12:54.9762|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:21:26.4263|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:21:26.4263|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:21:52.4304|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:21:52.4304|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:21:52.7196|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:21:52.7196|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:21:52.7196|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:21:52.7196|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:21:52.7505|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:21:52.7505|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:24:20.0297|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:24:20.0297|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:24:55.0425|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:24:55.0425|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:24:55.3241|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:24:55.3241|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:24:55.3241|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:24:55.3241|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:24:55.3510|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:24:55.3510|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:25:51.4037|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:25:51.4037|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:26:23.4398|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:26:23.4398|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:27:03.7648|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:27:03.7648|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:27:04.0101|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:27:04.0101|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:27:04.0101|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:27:04.0101|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:27:04.0321|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:27:04.0321|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:30:04.6503|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:30:04.6503|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:30:27.1036|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:30:27.1036|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:30:27.4448|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:30:27.4448|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:30:27.4448|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:30:27.4448|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:30:27.5136|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:30:27.5136|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:31:00.5991|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:31:00.5991|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:31:13.2946|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:31:13.2946|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:31:13.5111|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:31:13.5111|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:31:13.5111|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:31:13.5111|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:31:13.5351|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:31:13.5351|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:07.5664|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:07.5664|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:16.6992|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:38:16.6992|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:38:16.9759|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:16.9759|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:16.9759|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:16.9759|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:17.0049|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:17.0049|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:42.5922|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:42.5922|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:55.6514|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:38:55.6514|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:38:55.9962|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:55.9962|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:55.9962|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:55.9962|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:38:56.0212|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:38:56.0212|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:39:33.3973|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:39:33.3973|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:39:53.9581|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-02 11:39:53.9581|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Create
+2019-08-02 11:39:54.2840|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:39:54.2840|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:49:59.8244|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:49:59.8244|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 11:50:13.5012|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:50:13.5012|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:50:27.2563|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:50:27.2563|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:51:27.6187|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:51:27.6187|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:51:27.6187|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:51:27.6187|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:53:47.9978|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:53:47.9978|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:54:23.0429|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:54:23.0429|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:54:23.0429|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:54:23.0429|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:55:09.1776|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:55:09.1776|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:55:24.8791|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:55:24.8791|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 11:55:25.0856|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:55:25.0856|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:55:25.0856|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:55:25.0856|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 11:55:25.1118|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 11:55:25.1118|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:11:25.9098|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:11:25.9098|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:11:28.5723|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:28.5723|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:28.5723|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:28.5723|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:52.7277|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:11:52.7277|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:11:55.1140|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:55.1140|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:55.1140|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:11:55.1140|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:13:54.4196|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:13:54.4196|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:31:06.3125|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:31:06.3125|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:31:08.9159|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:31:08.9159|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:31:08.9159|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:31:08.9159|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:31:09.0733|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:31:09.0733|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:31:11.5479|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:31:11.5479|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:31:11.5479|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:31:11.5479|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:33:24.9852|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:33:24.9852|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:33:41.9607|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:33:41.9607|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:33:42.9707|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:33:42.9707|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:34:04.2737|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:34:04.2737|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:34:04.8007|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:34:04.8007|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:36:16.6526|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:36:16.6526|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:36:31.0434|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:36:31.0434|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:36:31.3707|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:36:31.3707|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:41:26.1988|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 12:41:26.1988|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 12:41:41.9474|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:41:41.9474|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:41:59.8738|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:41:59.8738|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:42:00.0881|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:42:00.0881|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:42:21.7863|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:42:21.7863|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:42:21.9658|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:42:21.9658|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:43:18.6843|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 12:43:18.6843|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 12:43:26.7141|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:43:26.7141|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:43:43.7792|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:43:43.7792|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:43:44.6152|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:43:44.6152|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:49:12.0040|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 12:49:12.0040|INFO|ASP.NET_MVC5_Bootstrap3_3_1_LESS.Controllers.HomeController|Home Index
+2019-08-02 12:49:24.8950|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:49:24.8950|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:49:37.7632|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:49:37.7632|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:49:43.7365|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:49:43.7365|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:49:46.1391|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 12:49:46.1391|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 12:49:49.4526|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:49:49.4526|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:49:49.4526|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:49:49.4526|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:50:21.8506|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 12:50:21.8506|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 12:50:34.7413|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:50:34.7413|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:50:40.4826|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 12:50:40.4826|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogController|Catalog Index
+2019-08-02 12:50:42.9708|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:50:42.9708|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:50:57.2656|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:50:57.2656|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:51:57.9960|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:51:57.9960|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:52:00.6368|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:52:00.6368|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:52:00.6368|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:52:00.6368|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:53:10.5625|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:53:10.5625|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:53:24.1805|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:53:24.1805|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:53:51.6600|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:53:51.6600|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:54:12.2516|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:54:12.2516|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:54:18.2289|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:54:18.2289|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:54:18.2289|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:54:18.2289|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:55:20.4703|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:55:20.4703|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:55:42.0039|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:55:42.0039|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:56:28.5105|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:56:28.5105|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:56:34.3846|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:56:34.3846|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:56:34.3846|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:56:34.3846|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:58:06.0464|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:58:06.0464|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:58:33.2921|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:58:33.2921|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 12:58:51.5181|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:58:51.5181|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:58:51.5181|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:58:51.5181|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 12:58:51.5640|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:58:51.5640|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:58:55.9863|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:58:55.9863|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:58:55.9863|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:58:55.9863|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 12:59:57.4338|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 12:59:57.4338|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:00:19.5210|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:00:19.5210|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:00:19.9924|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:00:19.9924|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:01:15.8596|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:01:15.8596|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:01:37.9947|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:01:37.9947|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:01:38.2501|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:01:38.2501|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:02:32.9423|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:02:32.9423|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:02:56.8219|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:02:56.8219|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:02:57.0323|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:02:57.0323|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:04:33.3556|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:04:33.3556|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:04:56.1881|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:04:56.1881|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:07:44.2123|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:07:44.2123|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:07:46.7926|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 13:07:46.7926|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 13:07:46.7926|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 13:07:46.7926|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 13:07:46.9525|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:07:46.9525|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:07:49.2971|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 13:07:49.2971|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 13:07:49.2971|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 13:07:49.2971|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 13:08:26.2014|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:08:26.2014|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:08:53.0901|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:08:53.0901|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:08:53.3966|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:08:53.3966|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:11:28.4450|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:11:28.4450|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:11:40.4097|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:11:40.4097|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:11:51.9266|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:11:51.9266|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:11:52.1702|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:11:52.1702|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:13:34.2894|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:13:34.2894|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:13:45.7208|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:13:45.7208|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:14:30.9189|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:14:30.9189|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 13:14:31.1263|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 13:14:31.1263|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:02:29.7127|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:02:29.7127|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:02:32.8322|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:02:32.8322|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:03:00.6400|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:03:00.6400|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:03:20.8838|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:03:20.8838|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:03:20.8838|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:03:20.8838|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:03:20.9147|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:03:20.9147|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:03:25.1426|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:03:25.1426|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:03:25.1426|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:03:25.1426|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:08:38.8896|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:08:38.8896|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:09:01.7790|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:09:01.7790|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:09:02.0267|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:09:02.0267|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:15:24.2567|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:15:24.2567|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:15:34.3951|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-02 14:15:34.3951|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CatalogMappingController|CatalogMapping Index
+2019-08-02 14:15:38.2546|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:15:38.2546|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:15:51.3459|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:15:51.3459|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:16:11.9615|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:16:11.9615|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:16:11.9615|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:16:11.9615|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Category Create
+2019-08-02 14:16:11.9974|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:16:11.9974|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:16:16.3106|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:16:16.3106|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:16:16.3106|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:16:16.3106|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:25:53.4487|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:25:53.4487|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:26:13.4902|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:26:13.4902|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:26:13.7128|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:26:13.7128|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:33:12.9181|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:33:12.9181|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:33:48.3393|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:33:48.3393|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:33:48.6382|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:33:48.6382|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:35:40.6317|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:35:40.6317|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:36:04.5153|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:36:04.5153|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:36:38.8295|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:36:38.8295|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:37:57.9014|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:37:57.9014|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:38:14.3337|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:38:14.3337|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:38:21.5495|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:38:21.5495|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:38:26.3354|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:38:26.3354|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:38:26.3354|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:38:26.3354|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:40:04.8364|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:40:04.8364|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:40:08.2272|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:40:08.2272|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:40:08.2272|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:40:08.2272|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:40:41.2804|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:40:41.2804|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:43:05.2382|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:43:05.2382|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:44:00.7117|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:44:00.7117|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:44:05.5614|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:44:05.5614|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:44:05.5614|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:44:05.5614|ERROR|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Error in Catalog Index
+2019-08-02 14:46:16.1101|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:16.1101|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:40.3919|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:46:40.3919|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:46:40.8738|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:40.8738|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:45.9642|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:45.9642|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:49.1566|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:46:49.1566|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:47:06.0693|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:47:06.0693|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 14:47:06.3426|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 14:47:06.3426|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 15:04:36.0321|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 15:04:36.0321|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Create
+2019-08-02 15:04:36.4675|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 15:04:36.4675|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 15:04:41.9864|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 15:04:41.9864|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 15:04:45.2727|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index
+2019-08-02 15:04:45.2727|INFO|ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Controllers.CategoriesController|Category Index

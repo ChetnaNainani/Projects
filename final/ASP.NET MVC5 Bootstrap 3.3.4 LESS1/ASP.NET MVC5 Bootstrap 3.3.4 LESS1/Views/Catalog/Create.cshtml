@@ -1,0 +1,116 @@
+﻿@model ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.Models.Catalog
+@Scripts.Render("~/TestBundle/Jqueryfiles")
+@{
+    ViewBag.Title = "Create";
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+@Scripts.Render("~/TestBundle/Jqueryfiles")
+<add key="ClientValidationEnabled" value="true" />
+<add key="UnobtrusiveJavaScriptEnabled" value="true" />
+
+
+<script>
+    $(document).ready(function () {
+        $("#error").hide();
+        $("#Name").on("keyup change", function () {
+           
+
+            $("#error").hide();
+            $("#create").attr("disabled", false);
+            $("#Name").removeAttr("style");
+            cName = $("#Name").val();
+            if (cName === "") {
+
+                $("#error").show();
+                $("#error").html("*Name is required");
+                $("#error").css("color", "red");
+                $("#Name").css("border", " 1px solid red");
+                $("#create").attr("disabled", true);
+            }
+
+        });
+
+
+    });
+</script>
+
+<h2>Create</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Catalog</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", required = "required" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                <div class="error" id="error" style="display: inline"></div>
+            </div>
+        </div>
+
+
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextAreaFor(model => model.Description,5,40, new { htmlAttributes = new { @class = "form-control", @style=" max-width:100%;" } })
+                @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EnableAllProduct, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.CheckBoxFor(model => model.EnableAllProduct, new { @style = " height: 15px; width:15px;" })
+                    @Html.ValidationMessageFor(model => model.EnableAllProduct, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EnableAutoSync, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox" style="width:30px;height:30px">
+                    @Html.CheckBoxFor(model => model.EnableAutoSync, new {@style=" height: 15px; width:15px;" })
+                    @Html.ValidationMessageFor(model => model.EnableAutoSync, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IsActive, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.CheckBoxFor(model => model.IsActive, new { @style = " height: 15px; width:15px;" })
+                    @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" id="create" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", null, new { style = " color: white;" })
+    </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

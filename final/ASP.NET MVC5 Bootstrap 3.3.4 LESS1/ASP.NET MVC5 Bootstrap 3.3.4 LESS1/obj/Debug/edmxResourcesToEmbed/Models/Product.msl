@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="emp1Model1StoreContainer" CdmEntityContainer="emp1Entities5">
+    <EntitySetMapping Name="product_details">
+      <EntityTypeMapping TypeName="emp1Model1.product_details">
+        <MappingFragment StoreEntitySet="product_details">
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Voucher" ColumnName="Voucher" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="ProductDescription" ColumnName="ProductDescription" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spDeleteEmployee" FunctionName="emp1Model1.Store.spDeleteEmployee" />
+    <FunctionImportMapping FunctionImportName="spinfo" FunctionName="emp1Model1.Store.spinfo">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="emp1Model1.spinfo_Result">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="areacode" ColumnName="areacode" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spinfos" FunctionName="emp1Model1.Store.spinfos" />
+    <FunctionImportMapping FunctionImportName="spsave" FunctionName="emp1Model1.Store.spsave" />
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="emp1ModelStoreContainer" CdmEntityContainer="emp1Entities9">
+    <EntitySetMapping Name="CatalogProductMappings">
+      <EntityTypeMapping TypeName="emp1Model.CatalogProductMapping">
+        <MappingFragment StoreEntitySet="CatalogProductMapping">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CatalogId" ColumnName="CatalogId" />
+          <ScalarProperty Name="ProductId" ColumnName="ProductId" />
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="isFeatured" ColumnName="isFeatured" />
+          <ScalarProperty Name="FeaturedDisplayOrder" ColumnName="FeaturedDisplayOrder" />
+          <ScalarProperty Name="isHomeProduct" ColumnName="isHomeProduct" />
+          <ScalarProperty Name="HomeProductDisplayOrder" ColumnName="HomeProductDisplayOrder" />
+          <ScalarProperty Name="isActive" ColumnName="isActive" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

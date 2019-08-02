@@ -1,0 +1,308 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model IPagedList<ASP.NET_MVC5_Bootstrap_3._3._4_LESS1.ServiceReference1.Product>
+
+
+@{
+    ViewBag.Title = "Product Page";
+}
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+<script src="~/Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+
+        var fileName ="";
+        var queryString = $('#myFormId').serialize();
+        $("#results").text(queryString);
+        $("#").click(function () {
+            $("#UploadModal").modal('show');
+        });
+
+
+
+        $("#myFormId").on('submit', function(e){
+
+        });
+
+
+        $("#file1").on("keyup change", function () {
+            fileName = $('#file1').val();
+
+            //var queryString = $('#myFormId').serialize();
+            //$("#results").text(fileName);
+
+            if (!(fileName.endsWith(".xlsx"))) {
+                alert("Invalid file selected...\nplease provide the file in .xlsx format.");
+                $("#message").html("");
+                $("input").css("color", "red");
+                $("#Uploading").attr("disabled", true);
+
+
+
+            }
+            else
+            {
+                $("input").removeAttr('style');
+                $("#Uploading").attr("disabled", false);
+                $("#Uploading").removeAttr('style');
+                $("#message").html("");
+
+                var fileUpload = $("#file1").get(0);
+                var files = fileUpload.files;
+
+                //alert(files)
+
+                // Create FormData object
+                var fileData = new FormData();
+
+                // Looping over all files and add it to FormData object
+                for (var i = 0; i < files.length; i++) {
+                    fileData.append(files[i].name, files[i]);
+                }
+
+
+                $.ajax({
+                    url: '/Home/ReadFiles',
+                    type: "POST",
+                    contentType: false, // Not to set any content header
+                    processData: false, // Not to process data
+                    data: fileData,
+                    //contentType: false, // Not to set any content header
+                    processData: false, // Not to process data
+                    //data: fileName,
+                    success: function (result) {
+                        $("#numberOfRows").html("number of rows: "+result);
+                        $("#message").html("read successful");
+
+                    },
+                    error: function (err) {
+                        alert(err.statusText);
+                    }
+                });
+
+
+
+
+
+            }
+
+            $("#error").html("");
+            $("#numberOfRows").html("");
+
+        });
+
+
+        $("#search1").submit(function(e) {
+            var url = "/Home/Index"; // the script where you handle the form input.
+            $.ajax({
+                type: "GET",
+                url: url,
+                data: $("#search1").serialize(), // serializes the form's elements.
+                success: function(data)
+                {
+                    alert("success"); // show response from the php script.
+                    $('#search')[0].reset(); // Clear the form
+                    $("#search").load(location.href + " #search");
+                }
+            });
+            e.preventDefault(); // avoid to execute the actual submit of the form.
+        });
+
+        $("#Uploading").click(function () {
+
+
+            var fileUpload = $("#file1").get(0);
+            var files = fileUpload.files;
+
+            //alert(files)
+
+            // Create FormData object
+            var fileData = new FormData();
+
+            // Looping over all files and add it to FormData object
+            for (var i = 0; i < files.length; i++) {
+                fileData.append(files[i].name, files[i]);
+            }
+
+            $("#message").html("");
+
+            $.ajax({
+                url: '/Home/UploadFiles',
+                type: "POST",
+                contentType: false, // Not to set any content header
+                processData: false, // Not to process data
+                data: fileData,
+                success: function (result) {
+                    alert(result);
+                    $("#message").html(result);
+                    var str = "Download error report";
+                    $("#error").html(str.link("/Home/Download"));
+                },
+                error: function (err) {
+                    alert(err.statusText);
+                }
+            });
+
+        });
+
+        $("#btnHideModal").click(function () {
+            $("#myModal").modal('hide');
+        });
+    });
+</script>
+<body id="background" background="~/Content/Images/backg1.jpg">
+    <h2>Product Master</h2>
+    <div class="container" style="font-size:medium">
+
+
+        <br />
+
+
+        <!-- Trigger the modal with a button -->
+
+        <button id="Bulk" type="button" class="btn" data-toggle="modal" data-target="#myModal"><i class="fa fa-upload"></i>&nbsp  &nbspBulk Upload</button>
+        <br />
+        <div class="background" id="search">
+
+            @using (@Html.BeginForm("Index", "Home", FormMethod.Get))
+            {
+                <b>Search By:</b>
+                <text>Product Name</text>
+
+                @Html.TextBox("search", null, new { style = "height:28px;margin-top:15px;" })
+                <button id="search1" type="submit" style="width:10px;height:28px;border:none;margin-top:15px; background-color:#33a2d9">
+                    <span class="glyphicon glyphicon-filter" style="padding:0px ;margin-left:-20px;margin-right:0px; width:10px;font-size:large"></span>
+                </button>
+            }
+        </div>
+        <div class="background">
+
+            <button id="Bulk1" onclick="location.href='@Url.Action("buttonexport", "Home")';return false;"><i class="fa fa-download"></i>&nbsp  &nbsp Export All Products</button>
+        </div>
+    </div>  <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog" data-keyboard="false" data-backdrop="static" style="width:50%;padding:30px; margin-top:40px;margin:auto;">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Upload File</h4>
+                </div>
+                <div class="modal-body">
+                    <form id="myFormId" enctype="multipart/form-data">
+                        <input type="file" style="border:0px solid gray" name="file" id="file1"
+                               accept="*.xlsx" /><br />
+                        <a href="https://drive.google.com/file/d/17iryvXvDvI0gt_z32SnsTRO_G0fPnVh6/view?usp=sharing" target="_blank" download>Download Template</a>
+                    </form>
+
+                    <div id="numberOfRows"></div>
+
+                    <div id="error"></div>
+
+                    <br />
+                    <button type="button" id="Uploading" disabled>Upload</button>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn" data-dismiss="modal" id="close">Close</button>
+
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <br />
+    <table>
+        <tr>
+            <th style="padding:10px 15px">
+
+                @Html.DisplayNameFor(model => model.First().Id)
+            </th>
+            <th style="padding:10px 15px">
+
+                @Html.DisplayNameFor(model => model.First().ProductName)
+            </th>
+            <th style="padding:10px 15px">
+
+                @Html.DisplayNameFor(model => model.First().VendorProductId)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().VendorProductSKU)
+            </th>
+            <th style="padding:10px 15px">
+                @Html.DisplayNameFor(model => model.First().VendorCategoryId)
+            </th>
+           
+        </tr>
+        @if (Model.Count() == 0)
+        {
+            <tr>
+                <td colspan="10">
+                    No records match search criteria
+                </td>
+            </tr>
+        }
+        else
+        {
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.VendorProductId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.VendorProductSKU)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.VendorCategoryId)
+                    </td>
+                    
+                   
+                </tr>
+            }
+        }
+
+    </table>
+
+
+    <div style="align-content:center,space-between;margin-left:18%;
+                margin-right:15%;">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page, search = Request.QueryString["search"] }), new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayItemSliceAndTotal = true })
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+</body>
